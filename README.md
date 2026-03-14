@@ -9,6 +9,10 @@ LLM Frontend for Power Users
 - Discord: <https://discord.gg/sillytavern>
 - Reddit: <https://reddit.com/r/SillyTavernAI>
 
+## Documentation
+
+For project-specific setup and conventions in this fork, see [AGENTS.md](AGENTS.md).
+
 ## License
 
 AGPL-3.0
